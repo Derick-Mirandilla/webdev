@@ -382,9 +382,9 @@ section {
 }
 
 .made-section img {
-    width: 100%;  /* Makes the image scale with its container */
-    max-width: 200px;  /* Ensures it doesn't exceed 200px */
-    height: auto;  /* Maintains aspect ratio */
+    width: 100%;  
+    max-width: 200px;  
+    height: auto;  
 }
 
 .site-footer {
